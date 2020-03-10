@@ -1,0 +1,25 @@
+body{
+    margin: 0em;
+    padding: 0em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+header{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    text-align: center;
+    color: orangered;
+}
+p{
+    padding:0px 120px;
+    color: gray;
+}
+#logohulk{
+    max-width: 300px;
+}
+#hulk{
+    color: seagreen;
+}
+#capi{
+    color: blue;
+}

@@ -1,0 +1,58 @@
+body{
+    margin: 0% 10%;
+    background-image:url("../img/torre-vengadores.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    font-family: fantasy;
+}
+img{ 
+    max-width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;}
+h1{ color: #555;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    color: #ffffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: large;
+    
+}
+a{
+    color: orange;
+}
+#ironman{
+    color:red;
+    background-color:goldenrod;
+    padding: 5px;
+}
+#ironman:hover{
+    color:goldenrod;
+    background-color:red; 
+}
+#contenido{
+    background-color: rgba(0,0,0, 0.65);
+    float: right;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+}
+/*cajas flotantes*/
+#menu{
+    float: left;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: seagreen;
+}
