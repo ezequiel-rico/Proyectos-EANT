@@ -53,15 +53,16 @@ figure{
     float: left;
 }
 figure img{
-    display: block;
+    display:block;
     width: 100vw;
 }
 figure figcaption{
-    background-color: #232323;    
+    background-color: #232323;
+
 }
 figure h2 {
     color: #ffffff;
-    font-size: 4rem;
+    font-size: 3rem;
     font-weight: 600;
     padding: 2rem;
     line-height: 100%;
