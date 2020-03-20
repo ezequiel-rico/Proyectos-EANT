@@ -95,6 +95,16 @@ figure h2 {
     text-decoration: none;
     color: #000000;
 }
+#tabla-de-resultados table{
+    margin: auto;
+}
+#tabla-de-resultados table th{
+    background-color: red;
+    color: white;
+    font-size: 1.6rem;
+    font-weight: bold;
+    padding: 1rem;
+}
 
 
 
